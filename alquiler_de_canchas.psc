@@ -203,9 +203,9 @@ Algoritmo alquiler_de_canchas
 						Escribir "no se encontró un alquiler con ese id."
 					FinSi
 				FinSi
-			//--------------------------//
-			//--|salir_menu_principal|--//
-			//--------------------------//
+			//------------------------------//
+			//--|salir_del_menu_principal|--//
+			//------------------------------//
 			7:
 				Escribir "gracias por utilizar el sistema de alquiler de canchas."
 			De Otro Modo:
